@@ -4948,5 +4948,27 @@
     "foreground": "#dcdccc",
     "background": "#3f3f3f",
     "cursorColor": "#dcdccc"
+  }, 
+  {
+    "name": "Inkpot",
+    "black": "#FBC5C5",
+    "red": "#705050",
+    "green": "#60b48a",
+    "yellow": "#f0dfaf",
+    "blue": "#506070",
+    "purple": "#dc8cc3",
+    "cyan": "#8cd0d3",
+    "white": "#dcdccc",
+    "brightBlack": "#989595",
+    "brightRed": "#FC6386",
+    "brightGreen": "#A9DC76",
+    "brightYellow": "#FCE94F",
+    "brightBlue": "#FB976B",
+    "brightPurple": "#AB9DF2",
+    "brightCyan": "#34E2E2",
+    "brightWhite": "#D1D1C0",
+    "foreground": "#FCFCFA",
+    "background": "#424043",
+    "cursorColor": "#FCFCFA"
   }
 ]
