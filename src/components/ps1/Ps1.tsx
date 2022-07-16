@@ -18,7 +18,7 @@ export const Ps1 = () => {
           color: theme.yellow,
         }}
       >
-        guest
+        honey
       </span>
       <span
         style={{
